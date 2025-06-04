@@ -149,8 +149,6 @@ const itemsData = [
     category: "popular",
     tags: ["Épico", "Fantástico"]
   },
-
-  // Solo en Netflix (Originales)
   {
     id: 11,
     title: "The Umbrella Academy",
@@ -226,8 +224,6 @@ const itemsData = [
     category: "netflixOriginals",
     tags: ["Animación", "Profundo"]
   },
-
-  // Películas
   {
     id: 16,
     title: "Red Notice",
@@ -298,8 +294,6 @@ const itemsData = [
     category: "movies",
     tags: ["Horror", "Suspenso"]
   },
-
-  // Documentales
   {
     id: 21,
     title: "My Octopus Teacher",
