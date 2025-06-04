@@ -1,12 +1,41 @@
-# React + Vite
+# Mini SPA
+Aplicación web creada como parte del examen práctico de React, que simula la cartelera de cine de **Cinéplanet**. Permite ver películas disponibles, buscarlas por título, marcarlas como favoritas (persistencia en localStorage), y contactar mediante un formulario validado.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologías Utilizadas
+- **React 19** + **Vite**
+- **React Router DOM**
+- **Bootstrap**
+- **React Toastify**
+- **React Loading Skeleton**
+- **@fontsource-variable/open-sans**
+- **@fontsource-variable/roboto**
 
-Currently, two official plugins are available:
+## Instalación y Ejecución
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clona el repositorio:
 
-## Expanding the ESLint configuration
+```bash
+git clone https://github.com/abuenoh-tecsup/dae_ec03_14-00_04-06-2024.git
+cd dae_ec03_14-00_04-06-2024
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Instala las dependencias:
+
+```bash
+npm install
+```
+
+3. Ejecuta la app localmente:
+
+```bash
+npm run dev
+```
+
+## Navegación
+
+La aplicación cuenta con 3 rutas principales:
+
+`/`        -> Página de inicio con banner y tarjetas                         
+`/items`   -> Listado completo de items                                      
+`/contact` -> Formulario de contacto con validaciones y notificación         
+
