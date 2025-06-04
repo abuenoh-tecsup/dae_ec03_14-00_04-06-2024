@@ -1,5 +1,4 @@
 const itemsData = [
-  // Tendencias actuales
   {
     id: 1,
     title: "Wednesday",
@@ -75,7 +74,6 @@ const itemsData = [
     tags: ["Suspenso", "Misterioso"]
   },
 
-  // Populares en Netflix
   {
     id: 6,
     title: "Squid Game",
