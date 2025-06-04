@@ -3,8 +3,8 @@
   display: flex;
   flex-direction: column;
   background-color: #040404;
-  background-image: linear-gradient(45deg, #363636 2px, transparent 2px),
-                    linear-gradient(-45deg, #363636 2px, transparent 2px);
+  background-image: linear-gradient(45deg, #363636ee 2px, transparent 2px),
+                    linear-gradient(-45deg, #363636ee 2px, transparent 2px);
   background-size: 40px 40px;
   color: white;
 }
