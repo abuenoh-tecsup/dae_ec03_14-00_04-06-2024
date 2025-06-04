@@ -3,7 +3,7 @@ import ItemCard from "./ItemCard";
 import LoadingSkeleton from "./LoadingSkeleton";
 
 export default function ItemList({
-  sectionTitle = "",
+  sectionTitle = "Titulo",
   items = [],
   category = null,
   onItemButtonClick,
