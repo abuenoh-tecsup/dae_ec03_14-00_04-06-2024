@@ -1,5 +1,5 @@
 # Mini SPA
-Aplicación web creada como parte del examen práctico de React, que simula la cartelera de cine de **Cinéplanet**. Permite ver películas disponibles, buscarlas por título, marcarlas como favoritas (persistencia en localStorage), y contactar mediante un formulario validado.
+Aplicación web creada como parte del examen práctico de React, que simula la cartelera de cine de **Netflix**. Permite ver películas disponibles, buscarlas por título, marcarlas como favoritas (persistencia en localStorage), y contactar mediante un formulario validado.
 
 ## Tecnologías Utilizadas
 - **React 19** + **Vite**
