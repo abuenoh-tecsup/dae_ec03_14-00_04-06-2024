@@ -7,7 +7,7 @@ export default function FavoritePanel({ favorites = [], onToggleFavorite }) {
       aria-labelledby="favoritePanelLabel"
     >
       <div className="offcanvas-header">
-        <h5 className="offcanvas-title" id="favoritePanelLabel">⭐ Favoritos</h5>
+        <h5 className="offcanvas-title" id="favoritePanelLabel">⭐ Mis Favoritos</h5>
         <button type="button" className="btn-close" data-bs-dismiss="offcanvas" aria-label="Cerrar"></button>
       </div>
       <div className="offcanvas-body">
