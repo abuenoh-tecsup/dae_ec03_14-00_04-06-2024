@@ -1,4 +1,4 @@
-# Mini SPA
+# dae_ec03_14-00_04-06-2024
 Aplicación web creada como parte del examen práctico de React, que simula la cartelera de cine de **Netflix**. Permite ver películas disponibles, buscarlas por título, marcarlas como favoritas (persistencia en localStorage), y contactar mediante un formulario validado.
 
 ## Tecnologías Utilizadas
@@ -11,23 +11,13 @@ Aplicación web creada como parte del examen práctico de React, que simula la c
 - **@fontsource-variable/roboto**
 
 ## Instalación y Ejecución
-
-1. Clona el repositorio:
-
 ```bash
 git clone https://github.com/abuenoh-tecsup/dae_ec03_14-00_04-06-2024.git
+
 cd dae_ec03_14-00_04-06-2024
-```
 
-2. Instala las dependencias:
-
-```bash
 npm install
-```
 
-3. Ejecuta la app localmente:
-
-```bash
 npm run dev
 ```
 
